@@ -23,7 +23,7 @@ class Interface(object):
 
     @cherrypy.expose
     def index(self):
-        return str('Ola')
+        return str('Ola teste')
 
 # [END gae_python37_cloudsql_mysql]
 
