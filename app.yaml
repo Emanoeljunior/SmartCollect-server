@@ -1,0 +1,7 @@
+runtime: python37
+
+env_variables:
+   CLOUD_SQL_USERNAME: root
+   CLOUD_SQL_PASSWORD: root 
+   CLOUD_SQL_DATABASE_NAME: smartcollect_db
+   CLOUD_SQL_CONNECTION_NAME: smartcollect-alpha:us-east1:smartcollect-instance
